@@ -28,7 +28,7 @@
 
 ## 🏆 展示项目
 以下是我做过的一些经典项目/题目：
-1. **[过河卒问题](link-to-your-cross-river-file)**：经典动态规划入门，解决棋盘路径计数问题。
+1. **[过河卒问题]([link-to-your-cross-river-file](https://github.com/cui1001/Luogu-Practice/blob/main/p1002_%E8%BF%87%E6%B2%B3%E5%8D%92.cpp))**：经典动态规划入门，解决棋盘路径计数问题。
 2. **[其他题目名称]**：简单描述一下这道题的亮点。
 
 ## 🤝 交流与学习
